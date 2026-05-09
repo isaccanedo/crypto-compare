@@ -38,7 +38,7 @@ Usage
 
 ### Methods
 
-### `coinList()`
+## `coinList()`
 
 Get the current list of all cryptocurrencies and the following information about each coin.
 
